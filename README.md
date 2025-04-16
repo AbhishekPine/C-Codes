@@ -21,3 +21,11 @@ This is a classic **Snake and Ladder** game simulation in **C programming**, sup
 
 ## 📁 Project Structure
 
+```plaintext
+snake_ladder/
+├── include/
+│   └── game.h         # Header file with function declarations
+├── src/
+│   ├── main.c         # Main driver code (entry point)
+│   └── game.c         # Game logic (dice, turns, snakes/ladders)
+└── README.md          # Project documentation and instructions
